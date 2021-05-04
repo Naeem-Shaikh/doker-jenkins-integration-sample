@@ -7,6 +7,7 @@
     <groupId>com.naeem</groupId>
     <artifactId>doker-jenkins-integration-sample</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <build>
 
        <finalName>doker-jenkins-integration-sample</finalName>
